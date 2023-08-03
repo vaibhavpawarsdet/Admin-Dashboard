@@ -5,5 +5,4 @@ const router = express.Router();
 
 router.route("/postjob").post( postJob );
 router.route("/specialists").get( getAllSpecialists );
-     
-export default router;    
+export default router;
