@@ -21,7 +21,7 @@ app.use("/api/v1", jobroutes);
 app.use("/api/v1", countPerDay);
 
 app.get("/", (req, res) => {
-    res.status(200).json({ message: "HMS Server Started" });
+    res.status(200).json({ message: "Server Started" });
 });
 
 //db connection
