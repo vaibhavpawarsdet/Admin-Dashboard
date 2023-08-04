@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = `https://practical-task.onrender.com/api/v1`;
+const baseURL = `https://practical-task-api.onrender.com/api/v1`;
 export const fetchData = async () => {
     try {
         const response = await axios.get(`${baseURL}/specialists`);
