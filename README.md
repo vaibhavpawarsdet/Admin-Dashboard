@@ -1,5 +1,6 @@
 # practical-task-BE-FE
-Vercel deploy link:- https://practical-task-be-fe.vercel.app/
+Vercel react app link:- https://practical-task-be-fe.vercel.app/
+Node.js deploy link:- https://practical-task.onrender.com/
 
 # Getting Started with Create React App
 
